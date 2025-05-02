@@ -1,26 +1,30 @@
-# TF2 Vaccinator fast resistance switcher
+# TF2 Vaccinator Fast ÜberCharge Activator
+This is an alternate version of MudHutOnTheMoon's vaccinator script. Instead of binding the keys to switch to a resistance, this script will automatically activate the ÜberCharge with the alternate damage resistance of your choice, and then switch back to bullet resistance.
 
 ## Keybindings
 
-- `e` - Set bullet resistance.
+- `q` - Activate Fire Resistance ÜberCharge
 
-- `r` - Set explosive resistance.
+- `e` - Activate Explosive Resistance ÜberCharge
+  
+- `right ctrl` - Enables or Disables the Script
 
-- `f` - Set fire resistance.
-
-- `backspace` - Cycle resistance normally in case of desync. Bind this key to "+reload" in-game.
-
-- `right ctrl` - Enables or disables the script.
+This script assumes you have the default binds of `r` to `+reload` and `mouse2` to `+attack2`. If not, edit the script or your in-game binds to fit.
 
 ## Tutorial
 
-- Download the latest release.
-- Extract files and run `TF2Vaccinator.exe`
-- **Add the following line to your config:**
-  * `bind BACKSPACE +reload`
-- Open TF2.
+- Download the Latest Release
+- Extract Files and Run `TF2VaccinatorAlt.exe`
+- Open Team Fortress 2 and Press `right ctrl`
 
-## Virustotal scan
 
-- https://www.virustotal.com/gui/file-analysis/MzE3MTIwZjJlNjE4NmJkYzE4OTBhZWI2MzJjODFmZGM6MTcwNDcyMzIxNQ==
-- 12/51 false positives from no-name AVs. This program is completely safe to run.
+
+
+## In-Game Examples
+#### Pressing the Fire Resistance Key (`q`)
+![2](https://github.com/user-attachments/assets/00e7fa8c-c083-4d74-aabe-b60bb882f1df)
+
+#### Pressing the Explosion Resistance Key (`e`)
+![1](https://github.com/user-attachments/assets/6447e826-b3a8-4638-801b-7d99a837597b)
+
+<sub>(The Script does not switch your weapon. I manually switched to my melee weapon here to make it clear which resistance my heal target recieved.)</sub>
