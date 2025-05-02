@@ -1,5 +1,5 @@
 # TF2 Vaccinator Fast ÜberCharge Activator
-This is an alternate version of [MudHutOnTheMoon's vaccinator script](https://github.com/mudhutonthemoon/TF2-Vaccinator-fast-resistance-switch). Instead of binding the keys to switch to a resistance, this script will automatically activate the ÜberCharge with the alternate damage resistance of your choice, and then switch back to bullet resistance.
+This is an alternate version of [MudHutOnTheMoon's vaccinator script](https://github.com/mudhutonthemoon/TF2-Vaccinator-fast-resistance-switch). Instead of binding the keys to switch to a resistance, this script will automatically activate either the explosion or fire resistance ÜberCharge, and then switch back to bullet resistance, which you can activate as normal with right click.
 
 ## Keybindings
 
@@ -10,6 +10,8 @@ This is an alternate version of [MudHutOnTheMoon's vaccinator script](https://gi
 - `right ctrl` - Enables or Disables the Script
 
 This script assumes you have the default binds of `r` to `+reload` and `mouse2` to `+attack2`. If not, edit the script or your in-game binds to fit.
+
+You will also always need to have bullet resistance (or whichever default resistance you'd like) chosen. If it is not, use `r` to manually switch to it.
 
 ## Tutorial
 
