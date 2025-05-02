@@ -19,6 +19,11 @@ You will also always need to have bullet resistance (or whichever default resist
 - Download and Run `TF2VaccinatorAlt.exe` (or `TF2VaccinatorAlt.ahk` if you have AHK Installed)
 - Open Team Fortress 2 and Press `right ctrl`
 
+You may get a "Windows protected your PC" popup. Click "More info" and then "Run Anyway"
+The file is nothing more than an AHK script converted to an EXE, so it is safe. 
+
+If you don't trust me, you can look inside the AHK file with a text editor, and then run that directly with AHK installed.
+
 ## In-Game Examples
 #### Pressing the Fire Resistance Key (`q`)
 ![2](https://github.com/user-attachments/assets/00e7fa8c-c083-4d74-aabe-b60bb882f1df)
